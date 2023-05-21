@@ -1,4 +1,6 @@
-# Combine Text Files and Remove Duplicate Lines
+# Python Tools
+
+## Script 1:
 
 This Python script combines multiple text files from a specified directory and removes duplicate lines. It uses the `os` module for file operations, `tqdm` for displaying a progress bar, and `colorama` for colored output.
 
